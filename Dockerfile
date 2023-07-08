@@ -1,11 +1,12 @@
-# Base image with Windows
-FROM windows
-
 # Set the working directory
-WORKDIR /app
+WORKDIR / InstaTool
 
-# Copy the batch file
+# Copy the batch files
+COPY install_modules.bat .
 COPY run.bat .
+
+# Run the install_modules.bat file
+RUN install_modules.bat
 
 # Set the command to run the application
 CMD ["cmd", "/C", "run.bat"]
