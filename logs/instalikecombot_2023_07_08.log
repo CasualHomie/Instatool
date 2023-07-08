@@ -1,0 +1,114 @@
+[2023-07-08 12:52:36,370]:[ilcbot]:[<module>:32]:[INFO]:Script started
+[2023-07-08 12:52:36,370]:[ilcbot]:[<module>:34]:[INFO]:Downloading webdriver for your version of Chrome
+[2023-07-08 12:52:36,370]:[ilcbot]:[<module>:37]:[INFO]:Loading Instagram
+[2023-07-08 12:52:37,528]:[ilcbot]:[<module>:49]:[INFO]:Delay: 1-10 secs
+[2023-07-08 12:52:37,529]:[ilcbot]:[<module>:100]:[INFO]:Attempting to log in with jvnodiz@gmail.com
+[2023-07-08 12:52:49,326]:[modules.instafunc]:[is_2factor_present:425]:[ERROR]:Could not locate 2 factor authentication screen
+[2023-07-08 12:52:49,326]:[modules.instafunc]:[validate_login:174]:[INFO]:[Attempt# 1] Validating login
+[2023-07-08 12:52:49,339]:[ilcbot]:[<module>:103]:[INFO]:Login successful
+[2023-07-08 12:52:49,340]:[ilcbot]:[<module>:131]:[INFO]:Setting target to: india
+[2023-07-08 12:52:49,340]:[ilcbot]:[<module>:135]:[INFO]:[target: india] Opening target
+[2023-07-08 12:52:49,340]:[modules.instafunc]:[wrapper:70]:[INFO]:[open_target]: Attempt - 1
+[2023-07-08 12:52:51,779]:[modules.instafunc]:[is_private:413]:[INFO]:[is_private]: text=>(This account is private) not found
+[2023-07-08 12:52:51,790]:[modules.instafunc]:[is_private:413]:[INFO]:[is_private]: text=>(This Account is private) not found
+[2023-07-08 12:52:51,803]:[modules.instafunc]:[is_private:413]:[INFO]:[is_private]: text=>(This Account is Private) not found
+[2023-07-08 12:52:51,831]:[ilcbot]:[<module>:182]:[INFO]:[target: india] No. of posts found: 352
+[2023-07-08 12:52:51,831]:[ilcbot]:[<module>:208]:[INFO]:[target: india (Top Posts)] Opening first post
+[2023-07-08 12:52:52,097]:[ilcbot]:[<module>:218]:[INFO]:[target: india] Number of posts to like: 352
+[2023-07-08 12:52:52,097]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 1
+[2023-07-08 12:52:52,097]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:52:53,180]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:52:53,180]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:52:53,180]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:52:53,270]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:52:55,749]:[ilcbot]:[<module>:285]:[INFO]:[target: india] Commented: Amazing!
+[2023-07-08 12:52:55,751]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:52:55,985]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 7 seconds
+[2023-07-08 12:53:02,986]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 2
+[2023-07-08 12:53:02,986]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:02,987]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:02,988]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:02,988]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:02,990]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:02,991]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:02,992]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 2 seconds
+[2023-07-08 12:53:04,993]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 3
+[2023-07-08 12:53:04,993]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:04,995]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:04,996]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:04,996]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:04,997]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:04,998]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:05,000]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 5 seconds
+[2023-07-08 12:53:10,001]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 4
+[2023-07-08 12:53:10,001]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:10,003]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:10,003]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:10,003]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:10,005]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:10,006]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:10,008]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 7 seconds
+[2023-07-08 12:53:17,009]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 5
+[2023-07-08 12:53:17,009]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:17,010]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:17,010]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:17,011]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:17,012]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:17,014]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:17,016]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 9 seconds
+[2023-07-08 12:53:26,017]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 6
+[2023-07-08 12:53:26,018]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:26,019]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:26,019]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:26,020]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:26,021]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:26,023]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:26,024]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 9 seconds
+[2023-07-08 12:53:35,025]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 7
+[2023-07-08 12:53:35,025]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:35,026]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:35,026]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:35,027]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:35,028]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:35,030]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:35,032]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 3 seconds
+[2023-07-08 12:53:38,034]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 8
+[2023-07-08 12:53:38,034]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:38,036]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:38,036]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:38,037]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:38,038]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:38,039]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:38,041]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 3 seconds
+[2023-07-08 12:53:41,042]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 9
+[2023-07-08 12:53:41,042]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:41,043]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:41,043]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:41,045]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:41,045]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:41,047]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:41,049]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 2 seconds
+[2023-07-08 12:53:43,050]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 10
+[2023-07-08 12:53:43,050]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:43,052]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:43,052]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:43,052]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:43,054]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:43,055]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:43,057]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 9 seconds
+[2023-07-08 12:53:52,059]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 11
+[2023-07-08 12:53:52,059]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:53:52,061]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:53:52,061]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:53:52,061]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:53:52,063]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:53:52,064]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:53:52,065]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 10 seconds
+[2023-07-08 12:54:02,066]:[ilcbot]:[<module>:253]:[INFO]:[target: india] Liking post: 12
+[2023-07-08 12:54:02,066]:[modules.instafunc]:[wrapper:70]:[INFO]:[like]: Attempt - 1
+[2023-07-08 12:54:02,068]:[ilcbot]:[<module>:270]:[INFO]:[target: india] Comment disabled? No
+[2023-07-08 12:54:02,068]:[ilcbot]:[<module>:282]:[INFO]:[target: india] Commenting on the post
+[2023-07-08 12:54:02,069]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 1
+[2023-07-08 12:54:02,070]:[modules.instafunc]:[wrapper:70]:[INFO]:[comment]: Attempt - 2
+[2023-07-08 12:54:02,072]:[ilcbot]:[<module>:287]:[INFO]:[target: india] Moving on to the next post
+[2023-07-08 12:54:02,074]:[ilcbot]:[<module>:292]:[INFO]:[target: india] Waiting for 5 seconds
