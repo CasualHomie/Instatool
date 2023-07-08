@@ -1,2 +1,2 @@
 @echo off
-python3 ilcbot.py -pr profile.json
+python3 tool.py -pr profile.json
